@@ -1,4 +1,4 @@
-# GitHub Achievement Lab
+# GitHub 
 
 A small public repository for practicing normal GitHub workflows: issues, branches, pull requests, and merge hygiene.
 
